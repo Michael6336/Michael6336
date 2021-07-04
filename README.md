@@ -14,8 +14,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.instagram.com/" />][instagram]
+[<img align="left" alt="laungeedian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="laungeedian | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
