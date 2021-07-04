@@ -1,5 +1,5 @@
-# Hola, I'm Michael Lau! 👋
-## I'm undergraduated student who currently pursuing Degree specialism in Business Information System in | -Asia Pacific University🌍-
+## Hola, I'm Michael Lau! 👋
+### I'm undergraduated student who currently pursuing Degree specialism in Business Information System in | -Asia Pacific University🌍-
 
 - 🔭 I’m currently working on (FINDING)
 - 🌱 I’m currently learning Javascript & Ruby.
@@ -15,10 +15,8 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="" />][instagram]
 
 <br />
 
