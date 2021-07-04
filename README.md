@@ -14,8 +14,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="laungeedian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="laungeedian | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="laungeedian | LinkedIn" width="22px" src="https://www.linkedin.com/in/michael-lau-2054b1216/-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="laungeedian | Instagram" width="22px" src="https://www.instagram.com/-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
