@@ -2,9 +2,9 @@
 ### I'm undergraduated student who currently pursuing Degree specialism in Business Information System in | -Asia Pacific University🌍-
 
 - 🔭 I’m currently working on (FINDING)
-- 🌱 I’m currently learning Javascript & Ruby.
+- 🌱 I’m currently learning Javascript.
 - 👯 I’m looking to collaborate with cryptocurrencies company for my internship.
-- 💬 Ask me about 
+- 💬 
 - 📫 How to reach me: Instagram| (michael7_coding)
 - ⚡ Fun fact: Love to (Workout 🏋️ | JDM lovers🏎️ | Gaming 🎮)
 
