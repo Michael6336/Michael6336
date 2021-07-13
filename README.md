@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on (FINDING)
 - 🌱 I’m currently learning Javascript.
 - 👯 I’m looking to collaborate with cryptocurrencies company for my internship.
-- 💬 
+- 💬 What kind of programming languages that I have learned? Prefer front-end / back-end ?
 - 📫 How to reach me: Instagram| (michael7_coding)
 - ⚡ Fun fact: Love to (Workout 🏋️ | JDM lovers🏎️ | Gaming 🎮)
 
